@@ -1,16 +1,19 @@
-### Hi there 👋
+## IT stands for `I try` 😫
 
-<!--
-**fabiode/fabiode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I also solve problems, just like Mr. Wolf](https://media.giphy.com/media/DeOa0SqsDH5sc/giphy.gif?cid=ecf05e47g98ywyp87ae0038f8ce25pp51wj15coruborsw4y&rid=giphy.gif&ct=g)
 
-Here are some ideas to get you started:
+_I also solve problems, just like Mr. Wolf._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Hello! I'm Fabio, Ruby on Rails Fullstack Developer since 2011, eager to learn new stuff everyday, including one random article in wikipedia per day which gives my brain a memory leak.
+
+I ~~hate~~ love solving problems, they have been my obsession since a little kid when I started trying to fix eletronic toys with my father's soldering iron. Of course I just ended melting all of those circuit boards.
+
+I've worked as UI/UX Designer as well when I was at [locomotiva.pro](https://github.com/locomotivapro), so a lot of my work comes with design perspective.
+
+Nowadays, I work as Tech Lead and Fullstack developer at [Caiena,](https://github.com/caiena).
+
+
+
+
