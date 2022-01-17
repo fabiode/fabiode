@@ -12,7 +12,7 @@ I ~~hate~~ love solving problems, they have been my obsession since I was a litt
 
 I've worked as UI/UX Designer as well when I was at [locomotiva.pro](https://github.com/locomotivapro), so a lot of my work comes with design perspective.
 
-Nowadays, I work as Tech Lead and Fullstack developer at [Caiena,](https://github.com/caiena).
+Currently working [@Caiena,](https://github.com/cgtrader).
 
 
 
